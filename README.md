@@ -11,4 +11,5 @@ This is a simple educational website built using HTML, CSS, and JavaScript.
 Mariam Khoder
 
 ## Live website Link
+[here](https://mariamkhoder.github.io/Educational-Website-/)
 
